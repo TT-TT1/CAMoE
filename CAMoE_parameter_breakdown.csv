@@ -1,0 +1,9 @@
+Module,Parameter Count,Parameters (M)
+Text expert,3683840,3.683840
+Acoustic expert,3506176,3.506176
+Visual expert,3496192,3.496192
+UARM,395523,0.395523
+ATR,790020,0.790020
+Fusion refinement and prediction head,131841,0.131841
+CAM,589824,0.589824
+"CAMoE total (excluding BERT)",12593416,12.593416
